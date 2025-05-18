@@ -58,7 +58,3 @@ invoice-scanner-finance-tracker-java/
 - JavaFX dashboard
 - Auto-categorization and spending summaries
 - Export to CSV or database
-
-## 👨‍💻 Author
-
-Crafted with OCR magic and Java love 🧙‍♂️📜
